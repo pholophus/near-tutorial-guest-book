@@ -1,3 +1,6 @@
+Original tutorial can get from here #https://learn.figment.io/tutorials/stake-pool-contract
+
+The agenda for this tutorial is:
 1.  Show you the benefits that the OysterPack SMART STAKE pool provides
 2.  Show you how to deploy and use the STAKE pool contract as a **Validator**
 3.  Show you how to use the STAKE pool contract as a **Staker**
